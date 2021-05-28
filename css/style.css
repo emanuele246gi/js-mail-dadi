@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.generatore{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    line-height: 35px;
+}
+
+.finale{
+    
+}
